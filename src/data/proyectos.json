@@ -1,0 +1,44 @@
+[
+    {
+      "title": "Demo Paginaweb de Restaurante de Tortas-Galeria de Imagenes",
+      "imageSrc": "proyectos/pgw_masketortas.png",
+      "description": "Este proyecto es un demo de una pagina web de un restaurante de tortas, Yo ayude hacer el modulo de la galeria de imgagenes.",
+      "skills": ["HTML", "LESS", "JavaScript"],
+      "source": "https://github.com/AndreaSofiaValdez/pryfinalclase_pgw_restauranteTortas.git"
+    },
+    {
+      "title": "Sistema de Administracion Basica con C#",
+      "imageSrc": "proyectos/loginsistemadrgmedexpress.jpg",
+      "description": "Proyecto de un programa de escritorio para la administracion de inventario,productos,provedores y reportes de una empresa.",
+      "skills": ["C#", "Visual Studio"],
+      "source": "https://github.com/AndreaSofiaValdez/Drogueria_proyecto.git"
+    },
+    {
+      "title": "demo-Crear Ordenes y visualizarlas en una lista",
+      "imageSrc": "proyectos/Crearyver.png",
+      "description": "Crear y ver listado de Ordenes de una pulperia con php.",
+      "skills": ["PHP"],
+      "source": "https://github.com/AndreaSofiaValdez/Demo-CreacionyListadeOrdenesPulperia.git"
+    },
+    {
+      "title": "demo- Inicio de Sesion",
+      "imageSrc": "proyectos/iniciodesesion.png",
+      "description": "Inicio de Sesion con plantilla de framework basico y sencillo de MVC diseñado para php.",
+      "skills": ["PHP"],
+      "source": "https://github.com/AndreaSofiaValdez/demo-iniciodesesionconphp.git"
+    },
+    {
+      "title": "demo- Calculadora Simple",
+      "imageSrc": "proyectos/calculadorasimpleconphp.png",
+      "description": "Calculadora Simple con php.",
+      "skills": ["PHP"],
+      "source": "https://github.com/AndreaSofiaValdez/demo-CalculadoraSimpleconphp.git"
+    },
+    {
+      "title": "Portafolio Web Personal",
+      "imageSrc": "proyectos/portafolio.png",
+      "description": "Portafolio web personal con React y Vite",
+      "skills": ["React","JavaScript","HTML","CSS"],
+      "source": "https://github.com/AndreaSofiaValdez/PortafolioWebPersonal.git"
+    }
+  ]
