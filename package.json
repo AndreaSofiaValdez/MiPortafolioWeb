@@ -5,7 +5,7 @@
   "type": "module",
   "homepage": "http:/AndreaSofiaValdez.github.io/MiPortafolioWebPersonal",
   "scripts": {
-    "predeploy": "npm run dist",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
