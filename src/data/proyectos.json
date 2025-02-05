@@ -1,4 +1,10 @@
 [
+  {
+    "title": "Proyecto de Plataforma de aprendizaje sobre Ciberseguridad",
+    "imageSrc": "proyectos/PLT.png",
+    "description": "Proyecto privado tipo LMS realizado a la empresa AGREGA , que proporcina una plataforma de cursos,juegos y quizzes para sus empleados para que puedan aprender sobre ciberseguridad",
+    "skills": ["framework React","framework Django","JavaScript","HTML","CSS","Python"]
+  },
     {
       "title": "Demo Paginaweb de Restaurante de Tortas-Galeria de Imagenes",
       "imageSrc": "proyectos/pgw_masketortas.png",
@@ -41,4 +47,5 @@
       "skills": ["React","JavaScript","HTML","CSS"],
       "source": "https://github.com/AndreaSofiaValdez/PortafolioWebPersonal.git"
     }
+
   ]
